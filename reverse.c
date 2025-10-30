@@ -7,6 +7,7 @@ void reverse(char *str) {
         char tmp = str[i];
         str[i] = str[len - i - 1];
         str[len - i - 1] = tmp;
+        printf("hello i'm master");
     }
 }
 
