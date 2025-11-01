@@ -3,7 +3,7 @@
 int main() {
     int n;
     double sum = 0, num;
-
+    printf("hello  i'm master");
     printf("Enter number of values: ");
     scanf("%d", &n);
 

@@ -10,7 +10,7 @@ int main() {
     printf("=== Simple Calculator ===\n");
     printf("Enter two integers: ");
     scanf("%d %d", &x, &y);
-
+    prinf("hello dodo");
     printf("Choose operation:\n");
     printf("1. Add\n2. Subtract\n3. Multiply\n4. Divide\n");
     scanf("%d", &choice);
