@@ -7,7 +7,9 @@ void reverse(char *str) {
         char tmp = str[i];
         str[i] = str[len - i - 1];
         str[len - i - 1] = tmp;
+	// conflict 발생.. (아래 2줄) -> 합치는 걸로 수정)
 	// feature/mission _ first commit
+        printf("hello i'm master");
     }
 }
 
