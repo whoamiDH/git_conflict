@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//feature/mission1 1st commits~
 int main() {
     int n;
     double sum = 0, num;
